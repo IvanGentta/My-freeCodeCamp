@@ -9,8 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        freeCodeCampBackground: "#1B1B32",
+        freeCodeCampSecondary: "#0A0A23",
+        freeCodeCampButton: "#FFBE41",
       },
     },
   },
